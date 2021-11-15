@@ -3,7 +3,7 @@ Procedural modelling of fruit and sandstorm.
 Created by Adriana Arcia and Maya Boateng. Last updated December 19, 2020
 
 # Goal & Inspiration
-  Our goal for this project was to create a way of procedurally modelling fruits, specifically exotic fruits, as they have a wide range of shapes and textures that we found interesting. We were inspired by papers about using sweeps of a profile along a path to generate shapes as well as papers about particle systems and surface textures. 
+  Our goal for this project was to create a way of procedurally modeling fruits, specifically exotic fruits, as they have a wide range of shapes and textures that we found interesting. We were inspired by papers about using sweeps of a profile along a path to generate shapes as well as papers about particle systems and surface textures. 
   To generate the fruit shapes, we used a general form of a profile of a variety of fruits with round shapes, such as apples, pears, and lemos and used rotation to generate a solid surface. The spike texture was created using a particle system, which we were inspired to after our presentation of Reeves’s paper on particle systems. We also included two bump texturing options for the fruits and added more variance to the shape by jittering random vertices using proportional editing in Blender, and animated a scene with the fruit as part of a sandstorm.
 
 # Roles and Responsibilities
